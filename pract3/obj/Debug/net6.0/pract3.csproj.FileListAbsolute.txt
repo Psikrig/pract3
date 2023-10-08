@@ -1,0 +1,14 @@
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\pract3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\pract3.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\pract3.AssemblyInfo.cs
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\pract3.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\pract3\pract3\bin\Debug\net6.0\pract3.exe
+C:\Users\Влад\source\repos\pract3\pract3\bin\Debug\net6.0\pract3.deps.json
+C:\Users\Влад\source\repos\pract3\pract3\bin\Debug\net6.0\pract3.runtimeconfig.json
+C:\Users\Влад\source\repos\pract3\pract3\bin\Debug\net6.0\pract3.dll
+C:\Users\Влад\source\repos\pract3\pract3\bin\Debug\net6.0\pract3.pdb
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\pract3.dll
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\refint\pract3.dll
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\pract3.pdb
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\pract3.genruntimeconfig.cache
+C:\Users\Влад\source\repos\pract3\pract3\obj\Debug\net6.0\ref\pract3.dll
